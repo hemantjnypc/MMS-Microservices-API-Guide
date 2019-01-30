@@ -4,7 +4,6 @@
 
 ## Overview
 
-* [MMS Microservices](overview/overview.md)
 * [What are MMS Microservices](overview/what.md)
 * [How to develop Microservices](overview/dev.md)
 * [How to publish Microservices](overview/publish.md)
